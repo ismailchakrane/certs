@@ -17,5 +17,5 @@
 | Data Science Methodology | IBM | https://www.coursera.org/learn/data-science-methodology | Data_Science_Methodology_IC.pdf |
 | Tools for Data Science | IBM | https://www.coursera.org/learn/open-source-tools-for-data-science | Tools_for_Data_Science_IC.pdf |
 | What is Data Science? | IBM | https://www.coursera.org/learn/what-is-datascience | What_is_Data_Science_IC.pdf |
-| 2022 UN Big Data Hackathon | UN | https://unstats.un.org/bigdata/events/2022/hackathon/ | UNBDH_IC.pdf |
+| 2022 UN Big Data Hackathon | UN Big Data Hackathon | https://unstats.un.org/bigdata/events/2022/hackathon/ | UNBDH_IC.pdf |
 | EF SET English test | EF SET | https://www.efset.org/fr/ | EFSET_IC.pdf |
